@@ -1,4 +1,4 @@
-# GitTest
-깃 업로드 테스트
+# Spring-Boot-Test
+스프링 부트 테스트
 
 spring-boot + JPA + thymeleaf
